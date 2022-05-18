@@ -1,1 +1,1 @@
-# ecommerce-case-study
+# ECommerce Case Study
